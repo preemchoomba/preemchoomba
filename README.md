@@ -1,4 +1,4 @@
-Barrage
+Trying to become a netrunner irl.
 
 ![tryhackme stats](https://github.com/preemchoomba/preemchoomba/blob/68101ffaf3aade5f5c786d5d405df9eea38bfbf2/assets/thm_propic.png)
 
